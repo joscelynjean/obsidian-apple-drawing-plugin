@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "@joscelynjean/obsidian-apple-drawing-plugin",
+	"version": "0.0.1",
+	"description": "Obsidian plugin which allow support of the Apple pencil for notetaking and annotation.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
