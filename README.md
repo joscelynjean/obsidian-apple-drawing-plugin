@@ -1,9 +1,23 @@
-# Obsidian Sample Plugin
+# Apple pencil support for Obsidian
 
-This is a sample plugin for Obsidian (https://obsidian.md).
+**This is currently in a work in progress state**
 
-This project uses Typescript to provide type checking and documentation.
-The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
+This plugin provides support of the Apple pencil for drawing and annotate.
+
+**TODO:** Provide more information + video walkthrough
+
+# Features
+
+- Integrate a drawing from a editable code block
+- Annotate markdown in read mode
+
+# Support me
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/joscelynjean)
+
+
+# Obsidian notes to remove eventually when plugin more mature
+
 
 **Note:** The Obsidian API is still in early alpha and is subject to change at any time!
 
